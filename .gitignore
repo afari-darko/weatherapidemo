@@ -1,0 +1,16 @@
+#visual studio 2015
+.vs/
+
+#compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+#terraform
+*.terraform
+terraform-provider-azurerm_v2.91.0_x5.exe
+.terraform\providers\registry.terraform.io\hashicorp\azurerm\2.91.0\windows_amd64\terraform-provider-azurerm_v2.91.0_x5.exe
+>>>>>>> 21af970bb3d8f6887e61c0fe16d02706c2dead16
